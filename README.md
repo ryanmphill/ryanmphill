@@ -4,7 +4,7 @@
 - 🌱 I’m currently working with a combination of frontend and backend technologies, including: HTML, CSS, JavaScript, TypeScript, React, Next.js, PHP, Python, and Django.
 - 👥 I’m looking to collaborate on any projects that will push me to learn new skills and find novel solutions to challenging problems.
 - 📫 How to reach me:
-  - ryanmphill@gmail.com
+  - [ryanphillips.dev](https://ryanphillips.dev/)
   - [LinkedIn](https://www.linkedin.com/in/ryanmphill/)
 
 <!---
